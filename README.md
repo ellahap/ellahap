@@ -2,7 +2,8 @@
 
 I'm Ella Happel, a sophomore @ UIUC studying Computer Science + Linguistics.
 
-- 🔭 I’m currently working on a personal website and a website to locate hammocks on campus!
-- 🌱 I’m currently learning my ["missing semester"](https://missing.csail.mit.edu/2020/) of CS education on the shell, command line, git, vim, and more.
+- 🔭 I’m currently working on a website to locate hammocks on campus!
 - 📫 How to reach me: ehappel2@illinois.edu
 - 😄 Pronouns: she/her
+
+You can learn more about me and what I'm up to at [ellahappel.com](ellahappel.com) and [linkedin.com/in/ella-happel](www.linkedin.com/in/ella-happel)
