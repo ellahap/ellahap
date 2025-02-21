@@ -2,7 +2,6 @@
 
 I'm Ella Happel, a sophomore @ UIUC studying Computer Science + Linguistics.
 
-- 🔭 I’m currently working on a website to locate hammocks on campus!
 - 📫 How to reach me: ehappel2@illinois.edu
 - 😄 Pronouns: she/her
 
