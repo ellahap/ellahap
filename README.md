@@ -2,6 +2,6 @@
 
 I'm Ella Happel, a sophomore @ UIUC studying Computer Science + Linguistics.
 
-- 📫 How to reach me: ehappel2@illinois.edu
+📫 How to reach me: ehappel2@illinois.edu
 
 You can learn more about me and what I'm up to at [ellahappel.com](http://ellahappel.com/) and [linkedin.com/in/ella-happel](https://www.linkedin.com/in/ella-happel/).
