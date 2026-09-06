@@ -1,6 +1,4 @@
-## Hi!
-
-I'm Ella Happel, a senior @ UIUC studying Computer Science + Linguistics.
+## Hi! I'm Ella Happel, a senior @ UIUC studying Computer Science + Linguistics.
 
 📫 How to reach me: ehappel2@illinois.edu
 
